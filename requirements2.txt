@@ -45,7 +45,7 @@ traitlets==4.3.2
 urllib3==1.23
 vc==14
 vs2015_runtime==14.0.25123
-werkzeug==0.14.1
+werkzeug==0.15.3
 wheel==0.31.1
 win_inet_pton==1.0.1
 wincertstore==0.2
